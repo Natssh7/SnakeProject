@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1633972262 source:c:\users\natha\desktop\codeblocs\snake 11 oct\main\src\snake.cpp
+	"Snake.h"
+
+1633972262 c:\users\natha\desktop\codeblocs\snake 11 oct\main\include\snake.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+
+1633972465 source:c:\users\natha\desktop\codeblocs\snake 11 oct\main\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Snake.h"
+
+1635241409 source:c:\users\natha\desktop\codeblocs\snake 11 oct\src\snake.cpp
+	<SFML/Audio.hpp>
+	"Snake.h"
+
+1635274632 c:\users\natha\desktop\codeblocs\snake 11 oct\include\snake.h
+	<string>
+	<iostream>
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+
+1635274614 source:c:\users\natha\desktop\codeblocs\snake 11 oct\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"Snake.h"
+
+1635152203 c:\users\natha\desktop\codeblocs\snake 11 oct\snake2.h
+
